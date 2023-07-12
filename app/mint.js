@@ -29,7 +29,7 @@ export default function Mint() {
 
   const logImage = async () => {
     console.log(selectedImage); //this is what i want but using params its telling me its a url(?)
-    //sample data: file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540livinoffwater%252Fjobsift/ImagePicker/1e4903fe-6094-4cfa-b7dd-35d75d75e9d2.jpeg
+    //sample data: file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540livinoffwater%252Fnftapp/ImagePicker/1e4903fe-6094-4cfa-b7dd-35d75d75e9d2.jpeg
     console.log(setSelectedImage);
   };
 

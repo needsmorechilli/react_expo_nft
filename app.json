@@ -4,15 +4,15 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "jobsift",
-    "slug": "jobsift",
+    "name": "nftapp",
+    "slug": "nftapp",
     "extra": {
       "eas": {
         "projectId": "fdfe97a8-1870-4a12-93bc-a0bb6f1c5c33"
       }
     },
     "android": {
-      "package": "com.livinoffwater.jobsift"
+      "package": "com.livinoffwater.nftapp"
     }
   }
 }
