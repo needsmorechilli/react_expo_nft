@@ -1,0 +1,1 @@
+React expo app to take nfts 
