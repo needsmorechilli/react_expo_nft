@@ -1,4 +1,5 @@
 import { Buffer } from "buffer";
+// import 'react-native-crypto';
 import "react-native-get-random-values";
 
 // Place the App component import below your polyfill imports!
